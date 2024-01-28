@@ -1,0 +1,793 @@
+﻿City,Year,Month,Avg_Temp
+DFW,2010,Jan,44.3
+DFW,2010,Feb,41.7
+DFW,2010,Mar,55.7
+DFW,2010,Apr,66.7
+DFW,2010,May,76.9
+DFW,2010,Jun,86.5
+DFW,2010,July,85.9
+DFW,2010,Aug,89.8
+DFW,2010,Sept,79.8
+DFW,2010,Oct,68.8
+DFW,2010,Nov,58.4
+DFW,2010,Dec,49.3
+DFW,2011,Jan,42.8
+DFW,2011,Feb,49.5
+DFW,2011,Mar,61.3
+DFW,2011,Apr,70.8
+DFW,2011,May,72.8
+DFW,2011,Jun,86.8
+DFW,2011,July,91.4
+DFW,2011,Aug,93.4
+DFW,2011,Sept,80
+DFW,2011,Oct,68.1
+DFW,2011,Nov,57.9
+DFW,2011,Dec,47.6
+DFW,2012,Jan,50.4
+DFW,2012,Feb,52.4
+DFW,2012,Mar,64.3
+DFW,2012,Apr,70.3
+DFW,2012,May,77.9
+DFW,2012,Jun,84.2
+DFW,2012,July,87.7
+DFW,2012,Aug,86.5
+DFW,2012,Sept,80
+DFW,2012,Oct,67
+DFW,2012,Nov,59.7
+DFW,2012,Dec,51.1
+DFW,2013,Jan,49.1
+DFW,2013,Feb,52
+DFW,2013,Mar,56.4
+DFW,2013,Apr,63
+DFW,2013,May,72.3
+DFW,2013,Jun,82.6
+DFW,2013,July,84.4
+DFW,2013,Aug,87.1
+DFW,2013,Sept,82.4
+DFW,2013,Oct,68.2
+DFW,2013,Nov,53.5
+DFW,2013,Dec,43.1
+DFW,2014,Jan,45.3
+DFW,2014,Feb,46.9
+DFW,2014,Mar,55.1
+DFW,2014,Apr,66.3
+DFW,2014,May,74.4
+DFW,2014,Jun,82.3
+DFW,2014,July,83.8
+DFW,2014,Aug,86.2
+DFW,2014,Sept,80.3
+DFW,2014,Oct,71.6
+DFW,2014,Nov,51.5
+DFW,2014,Dec,50.1
+DFW,2015,Jan,44.5
+DFW,2015,Feb,45.7
+DFW,2015,Mar,56.1
+DFW,2015,Apr,65.8
+DFW,2015,May,70.9
+DFW,2015,Jun,82.1
+DFW,2015,July,87.1
+DFW,2015,Aug,87.3
+DFW,2015,Sept,82.7
+DFW,2015,Oct,71.2
+DFW,2015,Nov,58.7
+DFW,2015,Dec,53.6
+DFW,2016,Jan,47
+DFW,2016,Feb,55.2
+DFW,2016,Mar,61.2
+DFW,2016,Apr,68.1
+DFW,2016,May,72.5
+DFW,2016,Jun,84
+DFW,2016,July,87.4
+DFW,2016,Aug,85.8
+DFW,2016,Sept,81.5
+DFW,2016,Oct,74.1
+DFW,2016,Nov,63.5
+DFW,2016,Dec,49.7
+DFW,2017,Jan,51.2
+DFW,2017,Feb,60.6
+DFW,2017,Mar,65.7
+DFW,2017,Apr,69.3
+DFW,2017,May,75.4
+DFW,2017,Jun,82.5
+DFW,2017,July,86.6
+DFW,2017,Aug,84.4
+DFW,2017,Sept,80.6
+DFW,2017,Oct,69.6
+DFW,2017,Nov,62.4
+DFW,2017,Dec,49.7
+DFW,2018,Jan,45.8
+DFW,2018,Feb,51.1
+DFW,2018,Mar,63.3
+DFW,2018,Apr,61.6
+DFW,2018,May,79
+DFW,2018,Jun,85.7
+DFW,2018,July,88.8
+DFW,2018,Aug,85.2
+DFW,2018,Sept,78.1
+DFW,2018,Oct,66.2
+DFW,2018,Nov,52.5
+DFW,2018,Dec,48.4
+DFW,2019,Jan,45.8
+DFW,2019,Feb,50.2
+DFW,2019,Mar,55
+DFW,2019,Apr,66
+DFW,2019,May,73.4
+DFW,2019,Jun,79.9
+DFW,2019,July,84.6
+DFW,2019,Aug,87.4
+DFW,2019,Sept,85.5
+DFW,2019,Oct,65.5
+DFW,2019,Nov,53.5
+DFW,2019,Dec,50
+DFW,2020,Jan,50.3
+DFW,2020,Feb,49.6
+DFW,2020,Mar,63.4
+DFW,2020,Apr,64.6
+DFW,2020,May,73.8
+DFW,2020,Jun,81.9
+DFW,2020,July,85.7
+DFW,2020,Aug,86
+DFW,2020,Sept,74.7
+DFW,2020,Oct,65
+DFW,2020,Nov,60.4
+DFW,2020,Dec,49
+Houston,2010,Jan,49
+Houston,2010,Feb,48.5
+Houston,2010,Mar,59.1
+Houston,2010,Apr,69.5
+Houston,2010,May,79.4
+Houston,2010,Jun,84.7
+Houston,2010,July,84
+Houston,2010,Aug,87.7
+Houston,2010,Sept,81.4
+Houston,2010,Oct,72.9
+Houston,2010,Nov,62.2
+Houston,2010,Dec,55.4
+Houston,2011,Jan,51.3
+Houston,2011,Feb,55
+Houston,2011,Mar,66.5
+Houston,2011,Apr,74.9
+Houston,2011,May,78.7
+Houston,2011,Jun,86.2
+Houston,2011,July,87.1
+Houston,2011,Aug,90.4
+Houston,2011,Sept,82.9
+Houston,2011,Oct,70.8
+Houston,2011,Nov,63.1
+Houston,2011,Dec,54.6
+Houston,2012,Jan,58.8
+Houston,2012,Feb,60.1
+Houston,2012,Mar,69
+Houston,2012,Apr,73.6
+Houston,2012,May,78.8
+Houston,2012,Jun,83.7
+Houston,2012,July,82.9
+Houston,2012,Aug,86.1
+Houston,2012,Sept,79.7
+Houston,2012,Oct,70.9
+Houston,2012,Nov,62.9
+Houston,2012,Dec,58.7
+Houston,2013,Jan,55.5
+Houston,2013,Feb,58.4
+Houston,2013,Mar,61.2
+Houston,2013,Apr,66.6
+Houston,2013,May,75.5
+Houston,2013,Jun,84.4
+Houston,2013,July,84.1
+Houston,2013,Aug,85.3
+Houston,2013,Sept,82.4
+Houston,2013,Oct,71.3
+Houston,2013,Nov,58.1
+Houston,2013,Dec,51.4
+Houston,2014,Jan,49.5
+Houston,2014,Feb,54.7
+Houston,2014,Mar,58.8
+Houston,2014,Apr,69.4
+Houston,2014,May,74.1
+Houston,2014,Jun,82.5
+Houston,2014,July,83.7
+Houston,2014,Aug,84.6
+Houston,2014,Sept,80.6
+Houston,2014,Oct,72.8
+Houston,2014,Nov,57.4
+Houston,2014,Dec,57
+Houston,2015,Jan,49.8
+Houston,2015,Feb,52.6
+Houston,2015,Mar,62.5
+Houston,2015,Apr,72.5
+Houston,2015,May,77
+Houston,2015,Jun,82.2
+Houston,2015,July,86.1
+Houston,2015,Aug,85
+Houston,2015,Sept,79.9
+Houston,2015,Oct,73.3
+Houston,2015,Nov,63.1
+Houston,2015,Dec,59.4
+Houston,2016,Jan,52.4
+Houston,2016,Feb,59.1
+Houston,2016,Mar,65.4
+Houston,2016,Apr,69
+Houston,2016,May,74.5
+Houston,2016,Jun,82.1
+Houston,2016,July,87.1
+Houston,2016,Aug,84.6
+Houston,2016,Sept,82.7
+Houston,2016,Oct,75
+Houston,2016,Nov,66.7
+Houston,2016,Dec,58.6
+Houston,2017,Jan,59.9
+Houston,2017,Feb,66.4
+Houston,2017,Mar,68.2
+Houston,2017,Apr,71.8
+Houston,2017,May,76.3
+Houston,2017,Jun,82.1
+Houston,2017,July,85.3
+Houston,2017,Aug,83.7
+Houston,2017,Sept,79.8
+Houston,2017,Oct,72
+Houston,2017,Nov,67.2
+Houston,2017,Dec,53.7
+Houston,2018,Jan,48.6
+Houston,2018,Feb,62.5
+Houston,2018,Mar,67.6
+Houston,2018,Apr,66.9
+Houston,2018,May,79.8
+Houston,2018,Jun,84.9
+Houston,2018,July,85.8
+Houston,2018,Aug,85.3
+Houston,2018,Sept,80.7
+Houston,2018,Oct,72.3
+Houston,2018,Nov,58.7
+Houston,2018,Dec,55.6
+Houston,2019,Jan,53.4
+Houston,2019,Feb,59.7
+Houston,2019,Mar,62
+Houston,2019,Apr,69.7
+Houston,2019,May,78.6
+Houston,2019,Jun,82.7
+Houston,2019,July,84.9
+Houston,2019,Aug,87.6
+Houston,2019,Sept,83.9
+Houston,2019,Oct,71.8
+Houston,2019,Nov,60
+Houston,2019,Dec,57.6
+Houston,2020,Jan,57.9
+Houston,2020,Feb,56.9
+Houston,2020,Mar,71
+Houston,2020,Apr,70.8
+Houston,2020,May,78
+Houston,2020,Jun,82.5
+Houston,2020,July,86.6
+Houston,2020,Aug,86.6
+Houston,2020,Sept,81
+Houston,2020,Oct,71.7
+Houston,2020,Nov,66
+Houston,2020,Dec,55.4
+Austin,2010,Jan,46.4
+Austin,2010,Feb,45.9
+Austin,2010,Mar,56.5
+Austin,2010,Apr,67.3
+Austin,2010,May,77.5
+Austin,2010,Jun,83.4
+Austin,2010,July,84.1
+Austin,2010,Aug,86.7
+Austin,2010,Sept,80.1
+Austin,2010,Oct,67.8
+Austin,2010,Nov,59.7
+Austin,2010,Dec,51.3
+Austin,2011,Jan,47
+Austin,2011,Feb,53.1
+Austin,2011,Mar,64.1
+Austin,2011,Apr,73.8
+Austin,2011,May,76.4
+Austin,2011,Jun,85.4
+Austin,2011,July,86.1
+Austin,2011,Aug,88.3
+Austin,2011,Sept,80.2
+Austin,2011,Oct,68.4
+Austin,2011,Nov,60.5
+Austin,2011,Dec,51.4
+Austin,2012,Jan,52.2
+Austin,2012,Feb,55.7
+Austin,2012,Mar,64.8
+Austin,2012,Apr,71.7
+Austin,2012,May,77.1
+Austin,2012,Jun,83.2
+Austin,2012,July,83.7
+Austin,2012,Aug,84.9
+Austin,2012,Sept,77.8
+Austin,2012,Oct,68.6
+Austin,2012,Nov,60.6
+Austin,2012,Dec,54.7
+Austin,2013,Jan,50.8
+Austin,2013,Feb,55.9
+Austin,2013,Mar,59.3
+Austin,2013,Apr,65.4
+Austin,2013,May,74.3
+Austin,2013,Jun,83.7
+Austin,2013,July,84.2
+Austin,2013,Aug,85.7
+Austin,2013,Sept,80.6
+Austin,2013,Oct,69.7
+Austin,2013,Nov,56.4
+Austin,2013,Dec,47.4
+Austin,2014,Jan,46.3
+Austin,2014,Feb,52
+Austin,2014,Mar,56.7
+Austin,2014,Apr,66.9
+Austin,2014,May,73
+Austin,2014,Jun,81.8
+Austin,2014,July,82.8
+Austin,2014,Aug,85.4
+Austin,2014,Sept,79.4
+Austin,2014,Oct,71.5
+Austin,2014,Nov,54.1
+Austin,2014,Dec,53.3
+Austin,2015,Jan,46
+Austin,2015,Feb,49.2
+Austin,2015,Mar,58.2
+Austin,2015,Apr,69.5
+Austin,2015,May,74
+Austin,2015,Jun,79.1
+Austin,2015,July,83.1
+Austin,2015,Aug,84.2
+Austin,2015,Sept,80.5
+Austin,2015,Oct,71.9
+Austin,2015,Nov,61
+Austin,2015,Dec,55.2
+Austin,2016,Jan,49.3
+Austin,2016,Feb,56.6
+Austin,2016,Mar,63.5
+Austin,2016,Apr,68.1
+Austin,2016,May,73.5
+Austin,2016,Jun,82
+Austin,2016,July,86.4
+Austin,2016,Aug,83
+Austin,2016,Sept,80.5
+Austin,2016,Oct,73.3
+Austin,2016,Nov,64.6
+Austin,2016,Dec,54.8
+Austin,2017,Jan,55.4
+Austin,2017,Feb,63.7
+Austin,2017,Mar,67.4
+Austin,2017,Apr,70.7
+Austin,2017,May,75.5
+Austin,2017,Jun,83.4
+Austin,2017,July,86.9
+Austin,2017,Aug,84.4
+Austin,2017,Sept,78.3
+Austin,2017,Oct,68.7
+Austin,2017,Nov,63.9
+Austin,2017,Dec,50.4
+Austin,2018,Jan,46.6
+Austin,2018,Feb,55.5
+Austin,2018,Mar,64.7
+Austin,2018,Apr,64.8
+Austin,2018,May,79.2
+Austin,2018,Jun,85.4
+Austin,2018,July,86.2
+Austin,2018,Aug,86.6
+Austin,2018,Sept,80.4
+Austin,2018,Oct,69.5
+Austin,2018,Nov,55.8
+Austin,2018,Dec,52.5
+Austin,2019,Jan,50.1
+Austin,2019,Feb,56
+Austin,2019,Mar,58.6
+Austin,2019,Apr,68.2
+Austin,2019,May,77.3
+Austin,2019,Jun,82.3
+Austin,2019,July,84.2
+Austin,2019,Aug,87.2
+Austin,2019,Sept,85.3
+Austin,2019,Oct,69.8
+Austin,2019,Nov,56.8
+Austin,2019,Dec,52.6
+Austin,2020,Jan,54.8
+Austin,2020,Feb,52.5
+Austin,2020,Mar,67.5
+Austin,2020,Apr,67.2
+Austin,2020,May,76.1
+Austin,2020,Jun,81.5
+Austin,2020,July,86.5
+Austin,2020,Aug,87
+Austin,2020,Sept,77
+Austin,2020,Oct,69.6
+Austin,2020,Nov,63.2
+Austin,2020,Dec,52.4
+Lubbock,2010,Jan,39.2
+Lubbock,2010,Feb,39.3
+Lubbock,2010,Mar,51.3
+Lubbock,2010,Apr,61
+Lubbock,2010,May,69.5
+Lubbock,2010,Jun,81
+Lubbock,2010,July,77.4
+Lubbock,2010,Aug,80.2
+Lubbock,2010,Sept,74.9
+Lubbock,2010,Oct,63.6
+Lubbock,2010,Nov,50.4
+Lubbock,2010,Dec,45.4
+Lubbock,2011,Jan,39.8
+Lubbock,2011,Feb,41.8
+Lubbock,2011,Mar,55.6
+Lubbock,2011,Apr,65.4
+Lubbock,2011,May,70.8
+Lubbock,2011,Jun,85.9
+Lubbock,2011,July,86
+Lubbock,2011,Aug,86
+Lubbock,2011,Sept,71.8
+Lubbock,2011,Oct,62.3
+Lubbock,2011,Nov,50.7
+Lubbock,2011,Dec,37.9
+Lubbock,2012,Jan,44.4
+Lubbock,2012,Feb,43.9
+Lubbock,2012,Mar,58.3
+Lubbock,2012,Apr,67.1
+Lubbock,2012,May,73.2
+Lubbock,2012,Jun,80.5
+Lubbock,2012,July,82
+Lubbock,2012,Aug,80.9
+Lubbock,2012,Sept,72.7
+Lubbock,2012,Oct,60.6
+Lubbock,2012,Nov,55.1
+Lubbock,2012,Dec,43
+Lubbock,2013,Jan,40.9
+Lubbock,2013,Feb,43.6
+Lubbock,2013,Mar,53.4
+Lubbock,2013,Apr,58.9
+Lubbock,2013,May,70.1
+Lubbock,2013,Jun,80.5
+Lubbock,2013,July,79.2
+Lubbock,2013,Aug,80.5
+Lubbock,2013,Sept,75.1
+Lubbock,2013,Oct,62.1
+Lubbock,2013,Nov,48.5
+Lubbock,2013,Dec,38.7
+Lubbock,2014,Jan,39.9
+Lubbock,2014,Feb,42.5
+Lubbock,2014,Mar,50.6
+Lubbock,2014,Apr,60.9
+Lubbock,2014,May,70.2
+Lubbock,2014,Jun,78.3
+Lubbock,2014,July,79
+Lubbock,2014,Aug,80.9
+Lubbock,2014,Sept,71.5
+Lubbock,2014,Oct,63.5
+Lubbock,2014,Nov,46.5
+Lubbock,2014,Dec,43.5
+Lubbock,2015,Jan,39.1
+Lubbock,2015,Feb,43.6
+Lubbock,2015,Mar,52.5
+Lubbock,2015,Apr,62.1
+Lubbock,2015,May,66
+Lubbock,2015,Jun,77.3
+Lubbock,2015,July,81.2
+Lubbock,2015,Aug,80.3
+Lubbock,2015,Sept,76.4
+Lubbock,2015,Oct,64.1
+Lubbock,2015,Nov,50.4
+Lubbock,2015,Dec,43.4
+Lubbock,2016,Jan,41.1
+Lubbock,2016,Feb,48.1
+Lubbock,2016,Mar,57.1
+Lubbock,2016,Apr,61.8
+Lubbock,2016,May,67.8
+Lubbock,2016,Jun,78.8
+Lubbock,2016,July,85.5
+Lubbock,2016,Aug,78.6
+Lubbock,2016,Sept,73.2
+Lubbock,2016,Oct,67.5
+Lubbock,2016,Nov,54.3
+Lubbock,2016,Dec,42
+Lubbock,2017,Jan,43.8
+Lubbock,2017,Feb,52
+Lubbock,2017,Mar,59.2
+Lubbock,2017,Apr,62.8
+Lubbock,2017,May,69.6
+Lubbock,2017,Jun,80.7
+Lubbock,2017,July,81.1
+Lubbock,2017,Aug,76.4
+Lubbock,2017,Sept,72.3
+Lubbock,2017,Oct,62.2
+Lubbock,2017,Nov,54.5
+Lubbock,2017,Dec,42
+Lubbock,2018,Jan,39.8
+Lubbock,2018,Feb,45.6
+Lubbock,2018,Mar,56.5
+Lubbock,2018,Apr,59.6
+Lubbock,2018,May,78
+Lubbock,2018,Jun,82.9
+Lubbock,2018,July,82.7
+Lubbock,2018,Aug,81.4
+Lubbock,2018,Sept,72.7
+Lubbock,2018,Oct,59.1
+Lubbock,2018,Nov,46.9
+Lubbock,2018,Dec,40.5
+Lubbock,2019,Jan,42.5
+Lubbock,2019,Feb,45.1
+Lubbock,2019,Mar,49.1
+Lubbock,2019,Apr,62.1
+Lubbock,2019,May,67.8
+Lubbock,2019,Jun,76.9
+Lubbock,2019,July,82
+Lubbock,2019,Aug,84.4
+Lubbock,2019,Sept,77.6
+Lubbock,2019,Oct,57.1
+Lubbock,2019,Nov,48.1
+Lubbock,2019,Dec,44.8
+Lubbock,2020,Jan,44.4
+Lubbock,2020,Feb,42.6
+Lubbock,2020,Mar,56.1
+Lubbock,2020,Apr,60.9
+Lubbock,2020,May,72.6
+Lubbock,2020,Jun,79.5
+Lubbock,2020,July,85.5
+Lubbock,2020,Aug,83.2
+Lubbock,2020,Sept,70.1
+Lubbock,2020,Oct,60.6
+Lubbock,2020,Nov,55.1
+Lubbock,2020,Dec,42
+Amarillo,2010,Jan,36.1
+Amarillo,2010,Feb,32.8
+Amarillo,2010,Mar,47.6
+Amarillo,2010,Apr,57.3
+Amarillo,2010,May,64.2
+Amarillo,2010,Jun,78.6
+Amarillo,2010,July,76.8
+Amarillo,2010,Aug,78.3
+Amarillo,2010,Sept,73.8
+Amarillo,2010,Oct,61.5
+Amarillo,2010,Nov,46.5
+Amarillo,2010,Dec,41
+Amarillo,2011,Jan,35.6
+Amarillo,2011,Feb,36.2
+Amarillo,2011,Mar,51
+Amarillo,2011,Apr,60.1
+Amarillo,2011,May,66.7
+Amarillo,2011,Jun,82.5
+Amarillo,2011,July,85.2
+Amarillo,2011,Aug,85.1
+Amarillo,2011,Sept,70.7
+Amarillo,2011,Oct,59.4
+Amarillo,2011,Nov,48.2
+Amarillo,2011,Dec,34.7
+Amarillo,2012,Jan,42.2
+Amarillo,2012,Feb,40.2
+Amarillo,2012,Mar,56.4
+Amarillo,2012,Apr,62.9
+Amarillo,2012,May,69.5
+Amarillo,2012,Jun,78.9
+Amarillo,2012,July,82.7
+Amarillo,2012,Aug,80
+Amarillo,2012,Sept,71.3
+Amarillo,2012,Oct,57.9
+Amarillo,2012,Nov,52.6
+Amarillo,2012,Dec,41.5
+Amarillo,2013,Jan,38.6
+Amarillo,2013,Feb,39.8
+Amarillo,2013,Mar,50.6
+Amarillo,2013,Apr,54.9
+Amarillo,2013,May,68.3
+Amarillo,2013,Jun,77.8
+Amarillo,2013,July,77.9
+Amarillo,2013,Aug,79.2
+Amarillo,2013,Sept,73.7
+Amarillo,2013,Oct,58.3
+Amarillo,2013,Nov,45
+Amarillo,2013,Dec,35.6
+Amarillo,2014,Jan,37
+Amarillo,2014,Feb,37.7
+Amarillo,2014,Mar,46.7
+Amarillo,2014,Apr,57.6
+Amarillo,2014,May,68
+Amarillo,2014,Jun,75.3
+Amarillo,2014,July,76.5
+Amarillo,2014,Aug,79.3
+Amarillo,2014,Sept,69.4
+Amarillo,2014,Oct,61.5
+Amarillo,2014,Nov,43.8
+Amarillo,2014,Dec,39.8
+Amarillo,2015,Jan,36.6
+Amarillo,2015,Feb,40.2
+Amarillo,2015,Mar,50.6
+Amarillo,2015,Apr,59.1
+Amarillo,2015,May,62.1
+Amarillo,2015,Jun,75
+Amarillo,2015,July,78.2
+Amarillo,2015,Aug,76.8
+Amarillo,2015,Sept,75.1
+Amarillo,2015,Oct,61.2
+Amarillo,2015,Nov,47.7
+Amarillo,2015,Dec,41
+Amarillo,2016,Jan,38.7
+Amarillo,2016,Feb,46.1
+Amarillo,2016,Mar,52.9
+Amarillo,2016,Apr,57.5
+Amarillo,2016,May,63.1
+Amarillo,2016,Jun,77.3
+Amarillo,2016,July,82.8
+Amarillo,2016,Aug,76
+Amarillo,2016,Sept,71.6
+Amarillo,2016,Oct,65.7
+Amarillo,2016,Nov,52.2
+Amarillo,2016,Dec,38.1
+Amarillo,2017,Jan,39.4
+Amarillo,2017,Feb,47.8
+Amarillo,2017,Mar,53.9
+Amarillo,2017,Apr,58
+Amarillo,2017,May,64.2
+Amarillo,2017,Jun,76.9
+Amarillo,2017,July,80.1
+Amarillo,2017,Aug,73.6
+Amarillo,2017,Sept,69.5
+Amarillo,2017,Oct,58.9
+Amarillo,2017,Nov,52.9
+Amarillo,2017,Dec,38.7
+Amarillo,2018,Jan,38.6
+Amarillo,2018,Feb,41.3
+Amarillo,2018,Mar,52.6
+Amarillo,2018,Apr,55
+Amarillo,2018,May,73.7
+Amarillo,2018,Jun,79.2
+Amarillo,2018,July,80.2
+Amarillo,2018,Aug,79
+Amarillo,2018,Sept,71.2
+Amarillo,2018,Oct,57
+Amarillo,2018,Nov,44
+Amarillo,2018,Dec,38.8
+Amarillo,2019,Jan,39.6
+Amarillo,2019,Feb,40.8
+Amarillo,2019,Mar,45.9
+Amarillo,2019,Apr,58.1
+Amarillo,2019,May,62.4
+Amarillo,2019,Jun,72.8
+Amarillo,2019,July,80.4
+Amarillo,2019,Aug,81.8
+Amarillo,2019,Sept,76.5
+Amarillo,2019,Oct,52.9
+Amarillo,2019,Nov,44.5
+Amarillo,2019,Dec,41.9
+Amarillo,2020,Jan,41.2
+Amarillo,2020,Feb,38.7
+Amarillo,2020,Mar,53
+Amarillo,2020,Apr,55.9
+Amarillo,2020,May,67.8
+Amarillo,2020,Jun,78.3
+Amarillo,2020,July,82
+Amarillo,2020,Aug,80.7
+Amarillo,2020,Sept,68.1
+Amarillo,2020,Oct,57.2
+Amarillo,2020,Nov,51.6
+Amarillo,2020,Dec,39.1
+Corpus Christi,2010,Jan,54
+Corpus Christi,2010,Feb,54
+Corpus Christi,2010,Mar,63.3
+Corpus Christi,2010,Apr,72.4
+Corpus Christi,2010,May,79.5
+Corpus Christi,2010,Jun,83.5
+Corpus Christi,2010,July,84.3
+Corpus Christi,2010,Aug,86.2
+Corpus Christi,2010,Sept,81.2
+Corpus Christi,2010,Oct,73.3
+Corpus Christi,2010,Nov,64.9
+Corpus Christi,2010,Dec,59.8
+Corpus Christi,2011,Jan,55.5
+Corpus Christi,2011,Feb,58.1
+Corpus Christi,2011,Mar,68.7
+Corpus Christi,2011,Apr,76.9
+Corpus Christi,2011,May,79.2
+Corpus Christi,2011,Jun,83.8
+Corpus Christi,2011,July,85.8
+Corpus Christi,2011,Aug,87.7
+Corpus Christi,2011,Sept,83.9
+Corpus Christi,2011,Oct,74.8
+Corpus Christi,2011,Nov,67.6
+Corpus Christi,2011,Dec,59.5
+Corpus Christi,2012,Jan,62.3
+Corpus Christi,2012,Feb,63.1
+Corpus Christi,2012,Mar,72.3
+Corpus Christi,2012,Apr,77.3
+Corpus Christi,2012,May,79.4
+Corpus Christi,2012,Jun,84.9
+Corpus Christi,2012,July,86
+Corpus Christi,2012,Aug,88.3
+Corpus Christi,2012,Sept,83.9
+Corpus Christi,2012,Oct,77.3
+Corpus Christi,2012,Nov,69.4
+Corpus Christi,2012,Dec,65.3
+Corpus Christi,2013,Jan,60.2
+Corpus Christi,2013,Feb,65
+Corpus Christi,2013,Mar,67.7
+Corpus Christi,2013,Apr,72.5
+Corpus Christi,2013,May,80
+Corpus Christi,2013,Jun,86.8
+Corpus Christi,2013,July,85.9
+Corpus Christi,2013,Aug,86.7
+Corpus Christi,2013,Sept,84.2
+Corpus Christi,2013,Oct,77.3
+Corpus Christi,2013,Nov,63.9
+Corpus Christi,2013,Dec,56.3
+Corpus Christi,2014,Jan,54.8
+Corpus Christi,2014,Feb,59.1
+Corpus Christi,2014,Mar,63.2
+Corpus Christi,2014,Apr,73.8
+Corpus Christi,2014,May,76.5
+Corpus Christi,2014,Jun,84.9
+Corpus Christi,2014,July,84.8
+Corpus Christi,2014,Aug,86.4
+Corpus Christi,2014,Sept,81.6
+Corpus Christi,2014,Oct,76.8
+Corpus Christi,2014,Nov,61.3
+Corpus Christi,2014,Dec,61.7
+Corpus Christi,2015,Jan,52.3
+Corpus Christi,2015,Feb,57.4
+Corpus Christi,2015,Mar,63.4
+Corpus Christi,2015,Apr,74.1
+Corpus Christi,2015,May,79.1
+Corpus Christi,2015,Jun,82.7
+Corpus Christi,2015,July,85.5
+Corpus Christi,2015,Aug,85.5
+Corpus Christi,2015,Sept,82.3
+Corpus Christi,2015,Oct,76.3
+Corpus Christi,2015,Nov,66.5
+Corpus Christi,2015,Dec,62.3
+Corpus Christi,2016,Jan,56.4
+Corpus Christi,2016,Feb,63
+Corpus Christi,2016,Mar,70.5
+Corpus Christi,2016,Apr,74.7
+Corpus Christi,2016,May,79.6
+Corpus Christi,2016,Jun,83.4
+Corpus Christi,2016,July,86.4
+Corpus Christi,2016,Aug,85.9
+Corpus Christi,2016,Sept,84.8
+Corpus Christi,2016,Oct,78.9
+Corpus Christi,2016,Nov,71.9
+Corpus Christi,2016,Dec,62.8
+Corpus Christi,2017,Jan,62.7
+Corpus Christi,2017,Feb,70
+Corpus Christi,2017,Mar,70.8
+Corpus Christi,2017,Apr,74.9
+Corpus Christi,2017,May,78.1
+Corpus Christi,2017,Jun,83.8
+Corpus Christi,2017,July,84.3
+Corpus Christi,2017,Aug,84.6
+Corpus Christi,2017,Sept,81.4
+Corpus Christi,2017,Oct,73.9
+Corpus Christi,2017,Nov,70
+Corpus Christi,2017,Dec,56.6
+Corpus Christi,2018,Jan,53.1
+Corpus Christi,2018,Feb,64.9
+Corpus Christi,2018,Mar,70.5
+Corpus Christi,2018,Apr,70.7
+Corpus Christi,2018,May,79.9
+Corpus Christi,2018,Jun,83.6
+Corpus Christi,2018,July,83.4
+Corpus Christi,2018,Aug,85.2
+Corpus Christi,2018,Sept,81.5
+Corpus Christi,2018,Oct,73.3
+Corpus Christi,2018,Nov,62.7
+Corpus Christi,2018,Dec,59.8
+Corpus Christi,2019,Jan,57.7
+Corpus Christi,2019,Feb,62.7
+Corpus Christi,2019,Mar,65.4
+Corpus Christi,2019,Apr,72.9
+Corpus Christi,2019,May,80.7
+Corpus Christi,2019,Jun,85.5
+Corpus Christi,2019,July,85.6
+Corpus Christi,2019,Aug,87.4
+Corpus Christi,2019,Sept,85
+Corpus Christi,2019,Oct,75.9
+Corpus Christi,2019,Nov,63.3
+Corpus Christi,2019,Dec,61.1
+Corpus Christi,2020,Jan,62.6
+Corpus Christi,2020,Feb,61
+Corpus Christi,2020,Mar,73.8
+Corpus Christi,2020,Apr,74.7
+Corpus Christi,2020,May,79.2
+Corpus Christi,2020,Jun,80.9
+Corpus Christi,2020,July,85
+Corpus Christi,2020,Aug,85.9
+Corpus Christi,2020,Sept,81.2
+Corpus Christi,2020,Oct,74.4
+Corpus Christi,2020,Nov,70.1
+Corpus Christi,2020,Dec,58.5

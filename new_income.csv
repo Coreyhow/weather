@@ -1,0 +1,793 @@
+City|Year|Month|Income
+DFW|2010|Jan|$67,806
+DFW|2010|Feb|$67,806
+DFW|2010|Mar|$67,806
+DFW|2010|Apr|$67,806
+DFW|2010|May|$67,806
+DFW|2010|Jun|$67,806
+DFW|2010|July|$67,806
+DFW|2010|Aug|$67,806
+DFW|2010|Sept|$67,806
+DFW|2010|Oct|$67,806
+DFW|2010|Nov|$67,806
+DFW|2010|Dec|$67,806
+DFW|2011|Jan|$67,058
+DFW|2011|Feb|$67,058
+DFW|2011|Mar|$67,058
+DFW|2011|Apr|$67,058
+DFW|2011|May|$67,058
+DFW|2011|Jun|$67,058
+DFW|2011|July|$67,058
+DFW|2011|Aug|$67,058
+DFW|2011|Sept|$67,058
+DFW|2011|Oct|$67,058
+DFW|2011|Nov|$67,058
+DFW|2011|Dec|$67,058
+DFW|2012|Jan|$67,332
+DFW|2012|Feb|$67,332
+DFW|2012|Mar|$67,332
+DFW|2012|Apr|$67,332
+DFW|2012|May|$67,332
+DFW|2012|Jun|$67,332
+DFW|2012|July|$67,332
+DFW|2012|Aug|$67,332
+DFW|2012|Sept|$67,332
+DFW|2012|Oct|$67,332
+DFW|2012|Nov|$67,332
+DFW|2012|Dec|$67,332
+DFW|2013|Jan|$66,867
+DFW|2013|Feb|$66,867
+DFW|2013|Mar|$66,867
+DFW|2013|Apr|$66,867
+DFW|2013|May|$66,867
+DFW|2013|Jun|$66,867
+DFW|2013|July|$66,867
+DFW|2013|Aug|$66,867
+DFW|2013|Sept|$66,867
+DFW|2013|Oct|$66,867
+DFW|2013|Nov|$66,867
+DFW|2013|Dec|$66,867
+DFW|2014|Jan|$68,196
+DFW|2014|Feb|$68,196
+DFW|2014|Mar|$68,196
+DFW|2014|Apr|$68,196
+DFW|2014|May|$68,196
+DFW|2014|Jun|$68,196
+DFW|2014|July|$68,196
+DFW|2014|Aug|$68,196
+DFW|2014|Sept|$68,196
+DFW|2014|Oct|$68,196
+DFW|2014|Nov|$68,196
+DFW|2014|Dec|$68,196
+DFW|2015|Jan|$70,495
+DFW|2015|Feb|$70,495
+DFW|2015|Mar|$70,495
+DFW|2015|Apr|$70,495
+DFW|2015|May|$70,495
+DFW|2015|Jun|$70,495
+DFW|2015|July|$70,495
+DFW|2015|Aug|$70,495
+DFW|2015|Sept|$70,495
+DFW|2015|Oct|$70,495
+DFW|2015|Nov|$70,495
+DFW|2015|Dec|$70,495
+DFW|2016|Jan|$72,046
+DFW|2016|Feb|$72,046
+DFW|2016|Mar|$72,046
+DFW|2016|Apr|$72,046
+DFW|2016|May|$72,046
+DFW|2016|Jun|$72,046
+DFW|2016|July|$72,046
+DFW|2016|Aug|$72,046
+DFW|2016|Sept|$72,046
+DFW|2016|Oct|$72,046
+DFW|2016|Nov|$72,046
+DFW|2016|Dec|$72,046
+DFW|2017|Jan|$74,475
+DFW|2017|Feb|$74,475
+DFW|2017|Mar|$74,475
+DFW|2017|Apr|$74,475
+DFW|2017|May|$74,475
+DFW|2017|Jun|$74,475
+DFW|2017|July|$74,475
+DFW|2017|Aug|$74,475
+DFW|2017|Sept|$74,475
+DFW|2017|Oct|$74,475
+DFW|2017|Nov|$74,475
+DFW|2017|Dec|$74,475
+DFW|2018|Jan|$74,929
+DFW|2018|Feb|$74,929
+DFW|2018|Mar|$74,929
+DFW|2018|Apr|$74,929
+DFW|2018|May|$74,929
+DFW|2018|Jun|$74,929
+DFW|2018|July|$74,929
+DFW|2018|Aug|$74,929
+DFW|2018|Sept|$74,929
+DFW|2018|Oct|$74,929
+DFW|2018|Nov|$74,929
+DFW|2018|Dec|$74,929
+DFW|2019|Jan|$76,583
+DFW|2019|Feb|$76,583
+DFW|2019|Mar|$76,583
+DFW|2019|Apr|$76,583
+DFW|2019|May|$76,583
+DFW|2019|Jun|$76,583
+DFW|2019|July|$76,583
+DFW|2019|Aug|$76,583
+DFW|2019|Sept|$76,583
+DFW|2019|Oct|$76,583
+DFW|2019|Nov|$76,583
+DFW|2019|Dec|$76,583
+DFW|2020|Jan|$77,581
+DFW|2020|Feb|$77,581
+DFW|2020|Mar|$77,581
+DFW|2020|Apr|$77,581
+DFW|2020|May|$77,581
+DFW|2020|Jun|$77,581
+DFW|2020|July|$77,581
+DFW|2020|Aug|$77,581
+DFW|2020|Sept|$77,581
+DFW|2020|Oct|$77,581
+DFW|2020|Nov|$77,581
+DFW|2020|Dec|$77,581
+Houston|2010|Jan|$67,175
+Houston|2010|Feb|$67,175
+Houston|2010|Mar|$67,175
+Houston|2010|Apr|$67,175
+Houston|2010|May|$67,175
+Houston|2010|Jun|$67,175
+Houston|2010|July|$67,175
+Houston|2010|Aug|$67,175
+Houston|2010|Sept|$67,175
+Houston|2010|Oct|$67,175
+Houston|2010|Nov|$67,175
+Houston|2010|Dec|$67,175
+Houston|2011|Jan|$66,280
+Houston|2011|Feb|$66,280
+Houston|2011|Mar|$66,280
+Houston|2011|Apr|$66,280
+Houston|2011|May|$66,280
+Houston|2011|Jun|$66,280
+Houston|2011|July|$66,280
+Houston|2011|Aug|$66,280
+Houston|2011|Sept|$66,280
+Houston|2011|Oct|$66,280
+Houston|2011|Nov|$66,280
+Houston|2011|Dec|$66,280
+Houston|2012|Jan|$66,098
+Houston|2012|Feb|$66,098
+Houston|2012|Mar|$66,098
+Houston|2012|Apr|$66,098
+Houston|2012|May|$66,098
+Houston|2012|Jun|$66,098
+Houston|2012|July|$66,098
+Houston|2012|Aug|$66,098
+Houston|2012|Sept|$66,098
+Houston|2012|Oct|$66,098
+Houston|2012|Nov|$66,098
+Houston|2012|Dec|$66,098
+Houston|2013|Jan|$66,829
+Houston|2013|Feb|$66,829
+Houston|2013|Mar|$66,829
+Houston|2013|Apr|$66,829
+Houston|2013|May|$66,829
+Houston|2013|Jun|$66,829
+Houston|2013|July|$66,829
+Houston|2013|Aug|$66,829
+Houston|2013|Sept|$66,829
+Houston|2013|Oct|$66,829
+Houston|2013|Nov|$66,829
+Houston|2013|Dec|$66,829
+Houston|2014|Jan|$68,817
+Houston|2014|Feb|$68,817
+Houston|2014|Mar|$68,817
+Houston|2014|Apr|$68,817
+Houston|2014|May|$68,817
+Houston|2014|Jun|$68,817
+Houston|2014|July|$68,817
+Houston|2014|Aug|$68,817
+Houston|2014|Sept|$68,817
+Houston|2014|Oct|$68,817
+Houston|2014|Nov|$68,817
+Houston|2014|Dec|$68,817
+Houston|2015|Jan|$70,291
+Houston|2015|Feb|$70,291
+Houston|2015|Mar|$70,291
+Houston|2015|Apr|$70,291
+Houston|2015|May|$70,291
+Houston|2015|Jun|$70,291
+Houston|2015|July|$70,291
+Houston|2015|Aug|$70,291
+Houston|2015|Sept|$70,291
+Houston|2015|Oct|$70,291
+Houston|2015|Nov|$70,291
+Houston|2015|Dec|$70,291
+Houston|2016|Jan|$69,670
+Houston|2016|Feb|$69,670
+Houston|2016|Mar|$69,670
+Houston|2016|Apr|$69,670
+Houston|2016|May|$69,670
+Houston|2016|Jun|$69,670
+Houston|2016|July|$69,670
+Houston|2016|Aug|$69,670
+Houston|2016|Sept|$69,670
+Houston|2016|Oct|$69,670
+Houston|2016|Nov|$69,670
+Houston|2016|Dec|$69,670
+Houston|2017|Jan|$70,518
+Houston|2017|Feb|$70,518
+Houston|2017|Mar|$70,518
+Houston|2017|Apr|$70,518
+Houston|2017|May|$70,518
+Houston|2017|Jun|$70,518
+Houston|2017|July|$70,518
+Houston|2017|Aug|$70,518
+Houston|2017|Sept|$70,518
+Houston|2017|Oct|$70,518
+Houston|2017|Nov|$70,518
+Houston|2017|Dec|$70,518
+Houston|2018|Jan|$70,558
+Houston|2018|Feb|$70,558
+Houston|2018|Mar|$70,558
+Houston|2018|Apr|$70,558
+Houston|2018|May|$70,558
+Houston|2018|Jun|$70,558
+Houston|2018|July|$70,558
+Houston|2018|Aug|$70,558
+Houston|2018|Sept|$70,558
+Houston|2018|Oct|$70,558
+Houston|2018|Nov|$70,558
+Houston|2018|Dec|$70,558
+Houston|2019|Jan|$73,327
+Houston|2019|Feb|$73,327
+Houston|2019|Mar|$73,327
+Houston|2019|Apr|$73,327
+Houston|2019|May|$73,327
+Houston|2019|Jun|$73,327
+Houston|2019|July|$73,327
+Houston|2019|Aug|$73,327
+Houston|2019|Sept|$73,327
+Houston|2019|Oct|$73,327
+Houston|2019|Nov|$73,327
+Houston|2019|Dec|$73,327
+Houston|2020|Jan|$73,314
+Houston|2020|Feb|$73,314
+Houston|2020|Mar|$73,314
+Houston|2020|Apr|$73,314
+Houston|2020|May|$73,314
+Houston|2020|Jun|$73,314
+Houston|2020|July|$73,314
+Houston|2020|Aug|$73,314
+Houston|2020|Sept|$73,314
+Houston|2020|Oct|$73,314
+Houston|2020|Nov|$73,314
+Houston|2020|Dec|$73,314
+Austin|2010|Jan|$85,798
+Austin|2010|Feb|$85,798
+Austin|2010|Mar|$85,798
+Austin|2010|Apr|$85,798
+Austin|2010|May|$85,798
+Austin|2010|Jun|$85,798
+Austin|2010|July|$85,798
+Austin|2010|Aug|$85,798
+Austin|2010|Sept|$85,798
+Austin|2010|Oct|$85,798
+Austin|2010|Nov|$85,798
+Austin|2010|Dec|$85,798
+Austin|2011|Jan|$87,480
+Austin|2011|Feb|$87,480
+Austin|2011|Mar|$87,480
+Austin|2011|Apr|$87,480
+Austin|2011|May|$87,480
+Austin|2011|Jun|$87,480
+Austin|2011|July|$87,480
+Austin|2011|Aug|$87,480
+Austin|2011|Sept|$87,480
+Austin|2011|Oct|$87,480
+Austin|2011|Nov|$87,480
+Austin|2011|Dec|$87,480
+Austin|2012|Jan|$86,280
+Austin|2012|Feb|$86,280
+Austin|2012|Mar|$86,280
+Austin|2012|Apr|$86,280
+Austin|2012|May|$86,280
+Austin|2012|Jun|$86,280
+Austin|2012|July|$86,280
+Austin|2012|Aug|$86,280
+Austin|2012|Sept|$86,280
+Austin|2012|Oct|$86,280
+Austin|2012|Nov|$86,280
+Austin|2012|Dec|$86,280
+Austin|2013|Jan|$88,261
+Austin|2013|Feb|$88,261
+Austin|2013|Mar|$88,261
+Austin|2013|Apr|$88,261
+Austin|2013|May|$88,261
+Austin|2013|Jun|$88,261
+Austin|2013|July|$88,261
+Austin|2013|Aug|$88,261
+Austin|2013|Sept|$88,261
+Austin|2013|Oct|$88,261
+Austin|2013|Nov|$88,261
+Austin|2013|Dec|$88,261
+Austin|2014|Jan|$90,417
+Austin|2014|Feb|$90,417
+Austin|2014|Mar|$90,417
+Austin|2014|Apr|$90,417
+Austin|2014|May|$90,417
+Austin|2014|Jun|$90,417
+Austin|2014|July|$90,417
+Austin|2014|Aug|$90,417
+Austin|2014|Sept|$90,417
+Austin|2014|Oct|$90,417
+Austin|2014|Nov|$90,417
+Austin|2014|Dec|$90,417
+Austin|2015|Jan|$93,356
+Austin|2015|Feb|$93,356
+Austin|2015|Mar|$93,356
+Austin|2015|Apr|$93,356
+Austin|2015|May|$93,356
+Austin|2015|Jun|$93,356
+Austin|2015|July|$93,356
+Austin|2015|Aug|$93,356
+Austin|2015|Sept|$93,356
+Austin|2015|Oct|$93,356
+Austin|2015|Nov|$93,356
+Austin|2015|Dec|$93,356
+Austin|2016|Jan|$101,848
+Austin|2016|Feb|$101,848
+Austin|2016|Mar|$101,848
+Austin|2016|Apr|$101,848
+Austin|2016|May|$101,848
+Austin|2016|Jun|$101,848
+Austin|2016|July|$101,848
+Austin|2016|Aug|$101,848
+Austin|2016|Sept|$101,848
+Austin|2016|Oct|$101,848
+Austin|2016|Nov|$101,848
+Austin|2016|Dec|$101,848
+Austin|2017|Jan|$101,531
+Austin|2017|Feb|$101,531
+Austin|2017|Mar|$101,531
+Austin|2017|Apr|$101,531
+Austin|2017|May|$101,531
+Austin|2017|Jun|$101,531
+Austin|2017|July|$101,531
+Austin|2017|Aug|$101,531
+Austin|2017|Sept|$101,531
+Austin|2017|Oct|$101,531
+Austin|2017|Nov|$101,531
+Austin|2017|Dec|$101,531
+Austin|2018|Jan|$102,089
+Austin|2018|Feb|$102,089
+Austin|2018|Mar|$102,089
+Austin|2018|Apr|$102,089
+Austin|2018|May|$102,089
+Austin|2018|Jun|$102,089
+Austin|2018|July|$102,089
+Austin|2018|Aug|$102,089
+Austin|2018|Sept|$102,089
+Austin|2018|Oct|$102,089
+Austin|2018|Nov|$102,089
+Austin|2018|Dec|$102,089
+Austin|2019|Jan|$105,156
+Austin|2019|Feb|$105,156
+Austin|2019|Mar|$105,156
+Austin|2019|Apr|$105,156
+Austin|2019|May|$105,156
+Austin|2019|Jun|$105,156
+Austin|2019|July|$105,156
+Austin|2019|Aug|$105,156
+Austin|2019|Sept|$105,156
+Austin|2019|Oct|$105,156
+Austin|2019|Nov|$105,156
+Austin|2019|Dec|$105,156
+Austin|2020|Jan|$109,006
+Austin|2020|Feb|$109,006
+Austin|2020|Mar|$109,006
+Austin|2020|Apr|$109,006
+Austin|2020|May|$109,006
+Austin|2020|Jun|$109,006
+Austin|2020|July|$109,006
+Austin|2020|Aug|$109,006
+Austin|2020|Sept|$109,006
+Austin|2020|Oct|$109,006
+Austin|2020|Nov|$109,006
+Austin|2020|Dec|$109,006
+Lubbock|2010|Jan|$58,737
+Lubbock|2010|Feb|$58,737
+Lubbock|2010|Mar|$58,737
+Lubbock|2010|Apr|$58,737
+Lubbock|2010|May|$58,737
+Lubbock|2010|Jun|$58,737
+Lubbock|2010|July|$58,737
+Lubbock|2010|Aug|$58,737
+Lubbock|2010|Sept|$58,737
+Lubbock|2010|Oct|$58,737
+Lubbock|2010|Nov|$58,737
+Lubbock|2010|Dec|$58,737
+Lubbock|2011|Jan|$57,860
+Lubbock|2011|Feb|$57,860
+Lubbock|2011|Mar|$57,860
+Lubbock|2011|Apr|$57,860
+Lubbock|2011|May|$57,860
+Lubbock|2011|Jun|$57,860
+Lubbock|2011|July|$57,860
+Lubbock|2011|Aug|$57,860
+Lubbock|2011|Sept|$57,860
+Lubbock|2011|Oct|$57,860
+Lubbock|2011|Nov|$57,860
+Lubbock|2011|Dec|$57,860
+Lubbock|2012|Jan|$53,920
+Lubbock|2012|Feb|$53,920
+Lubbock|2012|Mar|$53,920
+Lubbock|2012|Apr|$53,920
+Lubbock|2012|May|$53,920
+Lubbock|2012|Jun|$53,920
+Lubbock|2012|July|$53,920
+Lubbock|2012|Aug|$53,920
+Lubbock|2012|Sept|$53,920
+Lubbock|2012|Oct|$53,920
+Lubbock|2012|Nov|$53,920
+Lubbock|2012|Dec|$53,920
+Lubbock|2013|Jan|$52,252
+Lubbock|2013|Feb|$52,252
+Lubbock|2013|Mar|$52,252
+Lubbock|2013|Apr|$52,252
+Lubbock|2013|May|$52,252
+Lubbock|2013|Jun|$52,252
+Lubbock|2013|July|$52,252
+Lubbock|2013|Aug|$52,252
+Lubbock|2013|Sept|$52,252
+Lubbock|2013|Oct|$52,252
+Lubbock|2013|Nov|$52,252
+Lubbock|2013|Dec|$52,252
+Lubbock|2014|Jan|$54,951
+Lubbock|2014|Feb|$54,951
+Lubbock|2014|Mar|$54,951
+Lubbock|2014|Apr|$54,951
+Lubbock|2014|May|$54,951
+Lubbock|2014|Jun|$54,951
+Lubbock|2014|July|$54,951
+Lubbock|2014|Aug|$54,951
+Lubbock|2014|Sept|$54,951
+Lubbock|2014|Oct|$54,951
+Lubbock|2014|Nov|$54,951
+Lubbock|2014|Dec|$54,951
+Lubbock|2015|Jan|$54,081
+Lubbock|2015|Feb|$54,081
+Lubbock|2015|Mar|$54,081
+Lubbock|2015|Apr|$54,081
+Lubbock|2015|May|$54,081
+Lubbock|2015|Jun|$54,081
+Lubbock|2015|July|$54,081
+Lubbock|2015|Aug|$54,081
+Lubbock|2015|Sept|$54,081
+Lubbock|2015|Oct|$54,081
+Lubbock|2015|Nov|$54,081
+Lubbock|2015|Dec|$54,081
+Lubbock|2016|Jan|$52,496
+Lubbock|2016|Feb|$52,496
+Lubbock|2016|Mar|$52,496
+Lubbock|2016|Apr|$52,496
+Lubbock|2016|May|$52,496
+Lubbock|2016|Jun|$52,496
+Lubbock|2016|July|$52,496
+Lubbock|2016|Aug|$52,496
+Lubbock|2016|Sept|$52,496
+Lubbock|2016|Oct|$52,496
+Lubbock|2016|Nov|$52,496
+Lubbock|2016|Dec|$52,496
+Lubbock|2017|Jan|$54,954
+Lubbock|2017|Feb|$54,954
+Lubbock|2017|Mar|$54,954
+Lubbock|2017|Apr|$54,954
+Lubbock|2017|May|$54,954
+Lubbock|2017|Jun|$54,954
+Lubbock|2017|July|$54,954
+Lubbock|2017|Aug|$54,954
+Lubbock|2017|Sept|$54,954
+Lubbock|2017|Oct|$54,954
+Lubbock|2017|Nov|$54,954
+Lubbock|2017|Dec|$54,954
+Lubbock|2018|Jan|$49,259
+Lubbock|2018|Feb|$49,259
+Lubbock|2018|Mar|$49,259
+Lubbock|2018|Apr|$49,259
+Lubbock|2018|May|$49,259
+Lubbock|2018|Jun|$49,259
+Lubbock|2018|July|$49,259
+Lubbock|2018|Aug|$49,259
+Lubbock|2018|Sept|$49,259
+Lubbock|2018|Oct|$49,259
+Lubbock|2018|Nov|$49,259
+Lubbock|2018|Dec|$49,259
+Lubbock|2019|Jan|$52,303
+Lubbock|2019|Feb|$52,303
+Lubbock|2019|Mar|$52,303
+Lubbock|2019|Apr|$52,303
+Lubbock|2019|May|$52,303
+Lubbock|2019|Jun|$52,303
+Lubbock|2019|July|$52,303
+Lubbock|2019|Aug|$52,303
+Lubbock|2019|Sept|$52,303
+Lubbock|2019|Oct|$52,303
+Lubbock|2019|Nov|$52,303
+Lubbock|2019|Dec|$52,303
+Lubbock|2020|Jan|$52,460
+Lubbock|2020|Feb|$52,460
+Lubbock|2020|Mar|$52,460
+Lubbock|2020|Apr|$52,460
+Lubbock|2020|May|$52,460
+Lubbock|2020|Jun|$52,460
+Lubbock|2020|July|$52,460
+Lubbock|2020|Aug|$52,460
+Lubbock|2020|Sept|$52,460
+Lubbock|2020|Oct|$52,460
+Lubbock|2020|Nov|$52,460
+Lubbock|2020|Dec|$52,460
+Amarillo|2010|Jan|$58,544
+Amarillo|2010|Feb|$58,544
+Amarillo|2010|Mar|$58,544
+Amarillo|2010|Apr|$58,544
+Amarillo|2010|May|$58,544
+Amarillo|2010|Jun|$58,544
+Amarillo|2010|July|$58,544
+Amarillo|2010|Aug|$58,544
+Amarillo|2010|Sept|$58,544
+Amarillo|2010|Oct|$58,544
+Amarillo|2010|Nov|$58,544
+Amarillo|2010|Dec|$58,544
+Amarillo|2011|Jan|$56,707
+Amarillo|2011|Feb|$56,707
+Amarillo|2011|Mar|$56,707
+Amarillo|2011|Apr|$56,707
+Amarillo|2011|May|$56,707
+Amarillo|2011|Jun|$56,707
+Amarillo|2011|July|$56,707
+Amarillo|2011|Aug|$56,707
+Amarillo|2011|Sept|$56,707
+Amarillo|2011|Oct|$56,707
+Amarillo|2011|Nov|$56,707
+Amarillo|2011|Dec|$56,707
+Amarillo|2012|Jan|$57,279
+Amarillo|2012|Feb|$57,279
+Amarillo|2012|Mar|$57,279
+Amarillo|2012|Apr|$57,279
+Amarillo|2012|May|$57,279
+Amarillo|2012|Jun|$57,279
+Amarillo|2012|July|$57,279
+Amarillo|2012|Aug|$57,279
+Amarillo|2012|Sept|$57,279
+Amarillo|2012|Oct|$57,279
+Amarillo|2012|Nov|$57,279
+Amarillo|2012|Dec|$57,279
+Amarillo|2013|Jan|$59,598
+Amarillo|2013|Feb|$59,598
+Amarillo|2013|Mar|$59,598
+Amarillo|2013|Apr|$59,598
+Amarillo|2013|May|$59,598
+Amarillo|2013|Jun|$59,598
+Amarillo|2013|July|$59,598
+Amarillo|2013|Aug|$59,598
+Amarillo|2013|Sept|$59,598
+Amarillo|2013|Oct|$59,598
+Amarillo|2013|Nov|$59,598
+Amarillo|2013|Dec|$59,598
+Amarillo|2014|Jan|$61,507
+Amarillo|2014|Feb|$61,507
+Amarillo|2014|Mar|$61,507
+Amarillo|2014|Apr|$61,507
+Amarillo|2014|May|$61,507
+Amarillo|2014|Jun|$61,507
+Amarillo|2014|July|$61,507
+Amarillo|2014|Aug|$61,507
+Amarillo|2014|Sept|$61,507
+Amarillo|2014|Oct|$61,507
+Amarillo|2014|Nov|$61,507
+Amarillo|2014|Dec|$61,507
+Amarillo|2015|Jan|$59,162
+Amarillo|2015|Feb|$59,162
+Amarillo|2015|Mar|$59,162
+Amarillo|2015|Apr|$59,162
+Amarillo|2015|May|$59,162
+Amarillo|2015|Jun|$59,162
+Amarillo|2015|July|$59,162
+Amarillo|2015|Aug|$59,162
+Amarillo|2015|Sept|$59,162
+Amarillo|2015|Oct|$59,162
+Amarillo|2015|Nov|$59,162
+Amarillo|2015|Dec|$59,162
+Amarillo|2016|Jan|$58,745
+Amarillo|2016|Feb|$58,745
+Amarillo|2016|Mar|$58,745
+Amarillo|2016|Apr|$58,745
+Amarillo|2016|May|$58,745
+Amarillo|2016|Jun|$58,745
+Amarillo|2016|July|$58,745
+Amarillo|2016|Aug|$58,745
+Amarillo|2016|Sept|$58,745
+Amarillo|2016|Oct|$58,745
+Amarillo|2016|Nov|$58,745
+Amarillo|2016|Dec|$58,745
+Amarillo|2017|Jan|$57,324
+Amarillo|2017|Feb|$57,324
+Amarillo|2017|Mar|$57,324
+Amarillo|2017|Apr|$57,324
+Amarillo|2017|May|$57,324
+Amarillo|2017|Jun|$57,324
+Amarillo|2017|July|$57,324
+Amarillo|2017|Aug|$57,324
+Amarillo|2017|Sept|$57,324
+Amarillo|2017|Oct|$57,324
+Amarillo|2017|Nov|$57,324
+Amarillo|2017|Dec|$57,324
+Amarillo|2018|Jan|$54,895
+Amarillo|2018|Feb|$54,895
+Amarillo|2018|Mar|$54,895
+Amarillo|2018|Apr|$54,895
+Amarillo|2018|May|$54,895
+Amarillo|2018|Jun|$54,895
+Amarillo|2018|July|$54,895
+Amarillo|2018|Aug|$54,895
+Amarillo|2018|Sept|$54,895
+Amarillo|2018|Oct|$54,895
+Amarillo|2018|Nov|$54,895
+Amarillo|2018|Dec|$54,895
+Amarillo|2019|Jan|$57,164
+Amarillo|2019|Feb|$57,164
+Amarillo|2019|Mar|$57,164
+Amarillo|2019|Apr|$57,164
+Amarillo|2019|May|$57,164
+Amarillo|2019|Jun|$57,164
+Amarillo|2019|July|$57,164
+Amarillo|2019|Aug|$57,164
+Amarillo|2019|Sept|$57,164
+Amarillo|2019|Oct|$57,164
+Amarillo|2019|Nov|$57,164
+Amarillo|2019|Dec|$57,164
+Amarillo|2020|Jan|$57,770
+Amarillo|2020|Feb|$57,770
+Amarillo|2020|Mar|$57,770
+Amarillo|2020|Apr|$57,770
+Amarillo|2020|May|$57,770
+Amarillo|2020|Jun|$57,770
+Amarillo|2020|July|$57,770
+Amarillo|2020|Aug|$57,770
+Amarillo|2020|Sept|$57,770
+Amarillo|2020|Oct|$57,770
+Amarillo|2020|Nov|$57,770
+Amarillo|2020|Dec|$57,770
+Corpus Christi|2010|Jan|$52,296
+Corpus Christi|2010|Feb|$52,296
+Corpus Christi|2010|Mar|$52,296
+Corpus Christi|2010|Apr|$52,296
+Corpus Christi|2010|May|$52,296
+Corpus Christi|2010|Jun|$52,296
+Corpus Christi|2010|July|$52,296
+Corpus Christi|2010|Aug|$52,296
+Corpus Christi|2010|Sept|$52,296
+Corpus Christi|2010|Oct|$52,296
+Corpus Christi|2010|Nov|$52,296
+Corpus Christi|2010|Dec|$52,296
+Corpus Christi|2011|Jan|$53,532
+Corpus Christi|2011|Feb|$53,532
+Corpus Christi|2011|Mar|$53,532
+Corpus Christi|2011|Apr|$53,532
+Corpus Christi|2011|May|$53,532
+Corpus Christi|2011|Jun|$53,532
+Corpus Christi|2011|July|$53,532
+Corpus Christi|2011|Aug|$53,532
+Corpus Christi|2011|Sept|$53,532
+Corpus Christi|2011|Oct|$53,532
+Corpus Christi|2011|Nov|$53,532
+Corpus Christi|2011|Dec|$53,532
+Corpus Christi|2012|Jan|$57,984
+Corpus Christi|2012|Feb|$57,984
+Corpus Christi|2012|Mar|$57,984
+Corpus Christi|2012|Apr|$57,984
+Corpus Christi|2012|May|$57,984
+Corpus Christi|2012|Jun|$57,984
+Corpus Christi|2012|July|$57,984
+Corpus Christi|2012|Aug|$57,984
+Corpus Christi|2012|Sept|$57,984
+Corpus Christi|2012|Oct|$57,984
+Corpus Christi|2012|Nov|$57,984
+Corpus Christi|2012|Dec|$57,984
+Corpus Christi|2013|Jan|$56,720
+Corpus Christi|2013|Feb|$56,720
+Corpus Christi|2013|Mar|$56,720
+Corpus Christi|2013|Apr|$56,720
+Corpus Christi|2013|May|$56,720
+Corpus Christi|2013|Jun|$56,720
+Corpus Christi|2013|July|$56,720
+Corpus Christi|2013|Aug|$56,720
+Corpus Christi|2013|Sept|$56,720
+Corpus Christi|2013|Oct|$56,720
+Corpus Christi|2013|Nov|$56,720
+Corpus Christi|2013|Dec|$56,720
+Corpus Christi|2014|Jan|$59,627
+Corpus Christi|2014|Feb|$59,627
+Corpus Christi|2014|Mar|$59,627
+Corpus Christi|2014|Apr|$59,627
+Corpus Christi|2014|May|$59,627
+Corpus Christi|2014|Jun|$59,627
+Corpus Christi|2014|July|$59,627
+Corpus Christi|2014|Aug|$59,627
+Corpus Christi|2014|Sept|$59,627
+Corpus Christi|2014|Oct|$59,627
+Corpus Christi|2014|Nov|$59,627
+Corpus Christi|2014|Dec|$59,627
+Corpus Christi|2015|Jan|$57,469
+Corpus Christi|2015|Feb|$57,469
+Corpus Christi|2015|Mar|$57,469
+Corpus Christi|2015|Apr|$57,469
+Corpus Christi|2015|May|$57,469
+Corpus Christi|2015|Jun|$57,469
+Corpus Christi|2015|July|$57,469
+Corpus Christi|2015|Aug|$57,469
+Corpus Christi|2015|Sept|$57,469
+Corpus Christi|2015|Oct|$57,469
+Corpus Christi|2015|Nov|$57,469
+Corpus Christi|2015|Dec|$57,469
+Corpus Christi|2016|Jan|$60,714
+Corpus Christi|2016|Feb|$60,714
+Corpus Christi|2016|Mar|$60,714
+Corpus Christi|2016|Apr|$60,714
+Corpus Christi|2016|May|$60,714
+Corpus Christi|2016|Jun|$60,714
+Corpus Christi|2016|July|$60,714
+Corpus Christi|2016|Aug|$60,714
+Corpus Christi|2016|Sept|$60,714
+Corpus Christi|2016|Oct|$60,714
+Corpus Christi|2016|Nov|$60,714
+Corpus Christi|2016|Dec|$60,714
+Corpus Christi|2017|Jan|$57,687
+Corpus Christi|2017|Feb|$57,687
+Corpus Christi|2017|Mar|$57,687
+Corpus Christi|2017|Apr|$57,687
+Corpus Christi|2017|May|$57,687
+Corpus Christi|2017|Jun|$57,687
+Corpus Christi|2017|July|$57,687
+Corpus Christi|2017|Aug|$57,687
+Corpus Christi|2017|Sept|$57,687
+Corpus Christi|2017|Oct|$57,687
+Corpus Christi|2017|Nov|$57,687
+Corpus Christi|2017|Dec|$57,687
+Corpus Christi|2018|Jan|$58,549
+Corpus Christi|2018|Feb|$58,549
+Corpus Christi|2018|Mar|$58,549
+Corpus Christi|2018|Apr|$58,549
+Corpus Christi|2018|May|$58,549
+Corpus Christi|2018|Jun|$58,549
+Corpus Christi|2018|July|$58,549
+Corpus Christi|2018|Aug|$58,549
+Corpus Christi|2018|Sept|$58,549
+Corpus Christi|2018|Oct|$58,549
+Corpus Christi|2018|Nov|$58,549
+Corpus Christi|2018|Dec|$58,549
+Corpus Christi|2019|Jan|$60,396
+Corpus Christi|2019|Feb|$60,396
+Corpus Christi|2019|Mar|$60,396
+Corpus Christi|2019|Apr|$60,396
+Corpus Christi|2019|May|$60,396
+Corpus Christi|2019|Jun|$60,396
+Corpus Christi|2019|July|$60,396
+Corpus Christi|2019|Aug|$60,396
+Corpus Christi|2019|Sept|$60,396
+Corpus Christi|2019|Oct|$60,396
+Corpus Christi|2019|Nov|$60,396
+Corpus Christi|2019|Dec|$60,396
+Corpus Christi|2020|Jan|$61,150
+Corpus Christi|2020|Feb|$61,150
+Corpus Christi|2020|Mar|$61,150
+Corpus Christi|2020|Apr|$61,150
+Corpus Christi|2020|May|$61,150
+Corpus Christi|2020|Jun|$61,150
+Corpus Christi|2020|July|$61,150
+Corpus Christi|2020|Aug|$61,150
+Corpus Christi|2020|Sept|$61,150
+Corpus Christi|2020|Oct|$61,150
+Corpus Christi|2020|Nov|$61,150
+Corpus Christi|2020|Dec|$61,150
